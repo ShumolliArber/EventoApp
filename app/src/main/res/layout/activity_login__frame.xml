@@ -71,6 +71,8 @@
         android:layout_alignStart="@+id/tvPassword"
         android:layout_below="@+id/tvPassword"
         android:foreground="#FFF"
-        android:imeOptions="actionDone" />
+        android:imeOptions="actionDone"
+        
+        />
 
 </RelativeLayout>
